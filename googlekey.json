@@ -1,13 +1,15 @@
 {
   "type": "service_account",
   "project_id": "drivereplacer",
-  "private_key_id": "284869708d94931cfc95210a090b1790e82eb6e3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmBcZrMNnA6oj7\nYKhuT0/3ADOKU0KXEBdCa4swYWCdHAtAY/BPRxPhvpqfeVghSQanK+1nyRu10Zlp\n4CJwPASI1ilbHu+aQ4BN6xdlUo7yvEviacQZUOSf8VcQXI4cNXgYJIXguZNMnxhw\nQvGiDU/4IYX38U3k0Q+Aneh/S204K3o8KHLigNkzJwZ74KimWxXoAoZN11/MwDLz\n6pVkIltDV5JsYwajmuYUY93iATKGO80N4nBb8w7RNucOypfQSSMB4itGCjXPYaWf\nZDDkXf78iJbbg22NlMxOQ3zD2hrXjWOd2fQ30lmqpzQBLLuWIfhjC/ATqHVc5WGR\nO0XC5MTfAgMBAAECggEAVYZ9LZrWxCeQMiNQzN8ZhOXixAJMJp3ZgB07fgwe35uv\nRUxDbD6p0kxL8pKsJYgg/KRVG7tHXdWmfJrVQzTVnMlATDyW6x1BBfes1cQaGX/Q\nmUkpHB6bOysBa7h2MF/jHNrrmlB1x835yLfjXxUjEEfqp3NlunfPE0vjR/1UCUdQ\noUl09GjgYdX41z0FYe+5Zni0WscvG3qx7lRiYpsz8rqXT+eUrY76NuN1AbBv6Uil\nlR7miC1otABkUrc7xqoc4gIGzxqxghiiWm0X8LMJVwIiJcLY4qJ9W3G7LXi/Z8pS\n0UzRz0Bn0+yq6YV56R1JoYb/auVU2IZsILuUw2rAtQKBgQD5R1xJZR19O+ncK094\nD4//AGVT9YqBkTKn4k635zHkcVHWkfKulJniztf/YmUMSOZE48QthLTeraH0YOEK\njWJqwdt1m3D1Qy5JL5OoDgJf5K4ZqIY277TinSNt2f45F9w9oa/6yOFRbgY56vjG\nZ9WbIF4IuHsIumdFG2as1BHonQKBgQDsOX/PA+lPciXUfvOiEracMepKPuxQ1rGv\nIop3H/pUGXYef1wmpfyDcEQxxsF8ZTKfXngBWMpfluBvF9YfFTZz9g5L91lFSblE\nvC0xGbCWMGUyCVwlvpyuXHE8OmcC6kpj2jPZQNxgf3DDI7GOJPDYgYNccGrkJ8ro\nLTJJwuC0qwKBgG00xQpmYOfnYomQ88yuTLAzVTDWBirDGIUSENhiUao5ttegssem\n1E/XvCrmyUv7d93ARsaGN9LCEIyGELDVxcLtUJ6STYc1OkbXsAFUudeW0GrvOHVC\nyGTq4IWUldofSN47QmREsulAoTuoY/pPrPW71VZOs5/cQbe1zGJ0ua/FAoGBAJ6G\nB6sY6N0TsSdk+oJtJHa1WJDyoQuuyBbLizheEVOWspnMxj55bXeXQ2xUAUxFbS9d\n6hKdT1HOolZrHJpHVf+DxBxepV3GF7p0va8RmltvprlpZpk9zU+FYcgVOUPPjpRr\nvhexWzK20ylhLqpBSA9C+rByEImD2rrsea7eRIV5AoGBALaY83wnF8sOo0kw8rVC\ntMQF2LYGTM7gU4AbLR57UYm8ztv8HABQVlNJ80+D0Cv5M86Mh12NoBEth0ZvC/wn\ncgps0wX8Ezdx1SLMLYSBc5cXHOeUrNxZwYfiMKM5MufFjJFsikocdhAlmJJvlgz4\nmIYw/3fCW52PCiOh1WFSPGoj\n-----END PRIVATE KEY-----\n",
-  "client_email": "driveupload@drivereplacer.iam.gserviceaccount.com",
-  "client_id": "108238170546624737482",
+  "private_key_id": "###",
+  "private_key": "-----BEGIN PRIVATE KEY-----###############################3-----END PRIVATE KEY-----\n",
+  "client_email": "#####@drivereplacer.iam.gserviceaccount.com",
+  "client_id": "88####8848",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/driveupload%40drivereplacer.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/######%40drivereplacer.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
+
+// fill in with your config
